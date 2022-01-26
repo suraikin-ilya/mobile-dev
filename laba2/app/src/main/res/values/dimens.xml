@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ic_size">24dp</dimen>
+    <dimen name="account_ic_mt">15dp</dimen>
+    <dimen name="account_ic_ml">24dp</dimen>
+    <dimen name="account_ic_gap_l">56dp</dimen>
+    <dimen name="arrow_similar_direction">8dp</dimen>
+    <dimen name="search_similar_direction">8dp</dimen>
+    <dimen name="review_layout__start_end">8dp</dimen>
+    <dimen name="review_layout__bottom">16dp</dimen>
+    <dimen name="user_picture__start">16dp</dimen>
+    <dimen name="review_text__start_end">16dp</dimen>
+    <dimen name="review_stats__start_end">16dp</dimen>
+    <dimen name="review_button__start_end">16dp</dimen>
+    <dimen name="notification_left">24dp</dimen>
+</resources>
